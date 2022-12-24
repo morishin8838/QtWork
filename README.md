@@ -1,4 +1,4 @@
-# Qt Projectのサンプルコード
+# Qt Creaor Project　サンプルコード
 * 公開&提供ソースコードです
 
 ## QtQuick
