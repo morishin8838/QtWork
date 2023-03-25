@@ -29,7 +29,8 @@ FORMS    += widget.ui
 MACHINE_PLATFORM = "KV260"
 equals (MACHINE_PLATFORM, "KV260"){
     message("Compiling for KV260 evironment")
-    KV260_ROOTFS="/home/a8838/Xilinx/LinuxForKV260/rootfs"
+#    KV260_ROOTFS="/home/a8838/Xilinx/LinuxForKV260/rootfs"
+    KV260_ROOTFS="/home/a8838/Nvidia/rootfs"
     OPEN_CV_DIR_INC =$$KV260_ROOTFS/usr/include/opencv4
     OPEN_CV_DIR_LIB =$$KV260_ROOTFS/usr/local/lib
 }else{

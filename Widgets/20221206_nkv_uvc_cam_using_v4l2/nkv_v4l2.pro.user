@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.15.0, 2022-12-24T21:54:02. -->
+<!-- Written by QtCreator 4.15.0, 2023-02-01T20:46:54. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -89,16 +89,16 @@
   <variable>ProjectExplorer.Project.Target.0</variable>
   <valuemap type="QVariantMap">
    <value type="QString" key="DeviceType">GenericLinuxOsType</value>
-   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">KV260 PYNQ Qt5.12.8</value>
-   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">KV260 PYNQ Qt5.12.8</value>
-   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">{387bf6c0-e369-4ba1-a14d-db612a75915a}</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">JetsonNX</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">JetsonNX</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">{56615670-9997-48c0-9054-b910e894ecae}</value>
    <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">0</value>
    <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">0</value>
    <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">0</value>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.0">
     <value type="int" key="EnableQmlDebugging">0</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/a8838/wQtSample/build-nkv_v4l2-KV260_PYNQ_Qt5_12_8-Debug</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/home/a8838/wQtSample/build-nkv_v4l2-KV260_PYNQ_Qt5_12_8-Debug</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/a8838/github/QtWork/Widgets/build-nkv_v4l2-JetsonNX-Debug</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/home/a8838/github/QtWork/Widgets/build-nkv_v4l2-JetsonNX-Debug</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
@@ -135,8 +135,8 @@
     <value type="int" key="Qt4ProjectManager.Qt4BuildConfiguration.BuildConfiguration">2</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.1">
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/a8838/wQtSample/build-nkv_v4l2-KV260_PYNQ_Qt5_12_8-Release</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/home/a8838/wQtSample/build-nkv_v4l2-KV260_PYNQ_Qt5_12_8-Release</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/a8838/github/QtWork/Widgets/build-nkv_v4l2-JetsonNX-Release</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/home/a8838/github/QtWork/Widgets/build-nkv_v4l2-JetsonNX-Release</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
@@ -175,8 +175,8 @@
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.2">
     <value type="int" key="EnableQmlDebugging">0</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/a8838/wQtSample/build-nkv_v4l2-KV260_PYNQ_Qt5_12_8-Profile</value>
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/home/a8838/wQtSample/build-nkv_v4l2-KV260_PYNQ_Qt5_12_8-Profile</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/a8838/github/QtWork/Widgets/build-nkv_v4l2-JetsonNX-Profile</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory.shadowDir">/home/a8838/github/QtWork/Widgets/build-nkv_v4l2-JetsonNX-Profile</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
@@ -326,14 +326,14 @@
     <value type="int" key="PE.EnvironmentAspect.Base">1</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">nkv_v4l2 (on %{Device:Name})</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">RemoteLinuxRunConfiguration:/home/a8838/wQtSample/20221206_nkv_uvc_cam_using_v4l2/nkv_v4l2.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/a8838/wQtSample/20221206_nkv_uvc_cam_using_v4l2/nkv_v4l2.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">RemoteLinuxRunConfiguration:/home/a8838/github/QtWork/Widgets/20221206_nkv_uvc_cam_using_v4l2/nkv_v4l2.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/a8838/github/QtWork/Widgets/20221206_nkv_uvc_cam_using_v4l2/nkv_v4l2.pro</value>
     <value type="int" key="RemoteLinux.EnvironmentAspect.Version">1</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="bool" key="RunConfiguration.UseTerminal">false</value>
+    <value type="bool" key="RunConfiguration.UseTerminal">true</value>
     <value type="bool" key="RunConfiguration.UseX11Forwarding">true</value>
     <value type="QString" key="RunConfiguration.X11Forwarding">:0</value>
    </valuemap>
